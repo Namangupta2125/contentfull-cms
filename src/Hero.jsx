@@ -14,7 +14,7 @@ function Hero() {
             repellat.
           </p>
         </div>
-        <img src="\src\assets\hero.svg" alt="" className="w-[30%] h-auto" />
+        <img src="./assets/hero.svg" alt="" className="w-[30%] h-auto" />
       </div>
     </section>
   );
